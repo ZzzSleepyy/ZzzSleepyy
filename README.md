@@ -1,11 +1,13 @@
 ### Hello, Programmers! 💻
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=4&pause=2000&center=true&width=435&lines=Programming;Developer;Cyber+security)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Comic+Sans&duration=4&pause=2000&center=true&width=435&lines=Programming;Developer;Cyber+security" alt="Typing SVG" /></a>
+
 ---
 
-`About me;`
-
-! I'm a full stack developer, programmer, and future cyber security specialist. 
-I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.
+`About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
+I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
 
 ### Languages 📚
 
