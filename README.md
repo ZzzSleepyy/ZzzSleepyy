@@ -47,5 +47,5 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 <a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=1CF715&repeat=false&width=435&lines=Stats" alt="Typing SVG" /></a>
 
-![](https://leetcard.jacoblin.cool/ZzzSleepyy?theme=wtf&ext=activity&theme=nord)
+![](https://leetcard.jacoblin.cool/ZzzSleepyy?theme=wtf&ext=activity)
 
