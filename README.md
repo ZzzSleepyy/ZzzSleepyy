@@ -41,5 +41,6 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 
 
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=1CF715&width=435&lines=Stats" alt="Typing SVG" /></a>
 
