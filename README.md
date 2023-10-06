@@ -8,5 +8,5 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 # Languages
 
-<img align="left" alt="f" width="25px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="f" width="50px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
