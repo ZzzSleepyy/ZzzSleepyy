@@ -29,8 +29,8 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 <a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=F70000&repeat=false&width=435&lines=Learning" alt="Typing SVG" /></a>
 
-<img align="left" alt="d" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="d" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
 
 
