@@ -20,6 +20,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 
 
+
 #
 
 
@@ -30,3 +31,15 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 <img align="left" alt="d" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="d" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
+
+
+
+
+
+---
+
+
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=1CF715&width=435&lines=Stats" alt="Typing SVG" /></a>
+
