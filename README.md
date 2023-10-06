@@ -21,6 +21,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 
 
+
 #
 
 
@@ -31,6 +32,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 <img align="left" alt="d" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="d" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <br />
+
 
 
 
