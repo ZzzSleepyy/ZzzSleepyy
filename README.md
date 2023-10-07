@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lato&size=40&duration=3000&pause=1000&color=9BF7DC&center=true&width=800&height=100&lines=Programmer;Developer;Cyber+Security+Expert" alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Lato&size=40&duration=3000&pause=1000&color=9BF7DC&center=true&width=800&height=100&lines=Programmer;Developer;Cyber+Security+Expert" alt="Typing SVG" /></a>
 
 ---
 
@@ -50,3 +50,11 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
   ![](https://leetcard.jacoblin.cool/ZzzSleepyy?theme=wtf)
 
+<details>
+  <summary>
+    <h3>
+      How I started 💻
+    </h3>
+  </summary>
+  I Started coding when I was
+</details>
