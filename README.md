@@ -5,9 +5,8 @@
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
 
-### [![Button Facebook]][Facebook]
-
 <p align="center">
+  ### [![Button Facebook]][Facebook]
   [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit
   [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge
 </p>
