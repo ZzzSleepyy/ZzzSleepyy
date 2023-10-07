@@ -54,8 +54,8 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 <details>
   <summary>
-    <summary>href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=F7A362&repeat=false&width=435&lines=How+I+started+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /> 
-    </summary>
+    <a><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=F7A362&repeat=false&width=435&lines=How+I+started+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /> 
+    </a>
   </summary>
   
   When I was 10 to 11 years old, I began looking for cheats in games that I found fascinating using a hacked cheat engine. After that, I just looked for cheat engines with a little   code of on and off and learned to code there. After that, I stopped using cheat engine since I didn't see the point, so I began writing in Roblox using the lua programming          language. I was really happy of the game I made called Gun Tycoon, which had 2k views. I stopped coding when I was 14 and went back to school. Between the ages of 15 and 17, I      explored with coding and learnt Python, Java, Html, and CSS.
