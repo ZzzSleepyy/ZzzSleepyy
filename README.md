@@ -4,9 +4,10 @@
 
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
+[![https://www.facebook.com/niqouu/]][Computers]
 
-<svg width = '1' height = '1' version = '1.1' viewBox = '0 0 1 1' xmlns = 'http://www.w3.org/2000/svg'></svg>
 
+[Computers]: https://www.facebook.com/niqouu/
 
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
