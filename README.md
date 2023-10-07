@@ -5,7 +5,7 @@
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
 
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=F70000&repeat=false&width=435&lines=Languages" alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=5315F7&repeat=false&width=435&lines=%3E+Languages+%2F+Tools%F0%9F%A7%B0" alt="Typing SVG" /></a>
 
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
@@ -26,7 +26,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 
 
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=F70000&repeat=false&width=435&lines=Learning" alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=57F709&repeat=false&width=435&lines=%3E+Learnings+%2F+Knowledge%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -46,14 +46,14 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 
 
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&duration=10000&pause=1000&color=1CF715&repeat=false&width=435&lines=Stats" alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&repeat=false&width=435&lines=%3E+Statistics+%F0%9F%93%8A" alt="Typing SVG" /></a>
 
-  ![](https://leetcard.jacoblin.cool/ZzzSleepyy?theme=wtf)
+  ![](https://leetcard.jacoblin.cool/ZzzSleepyy?)
 
 ---
 
 
-<a><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=F7A362&repeat=false&width=435&lines=How+I+started+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /> </a>
+<a><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=F7A362&repeat=false&width=435&lines=>+How+I+started+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /> </a>
 
 *When I was 10 to 11 years old, I began looking for cheats in games that I found fascinating using a hacked cheat engine. After that, I just looked for cheat engines with a little   code of on and off and learned to code there. After that, I stopped using cheat engine since I didn't see the point, so I began writing in Roblox using the lua programming          language. I was really happy of the game I made called Gun Tycoon, which had 2k views. I stopped coding when I was 14 and went back to school. Between the ages of 15 and 17, I      explored with coding and learnt Python, Java, Html, and CSS.*
 
