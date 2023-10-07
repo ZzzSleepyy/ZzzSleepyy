@@ -14,7 +14,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge
 
 
-[Computers]: 
+
 
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
