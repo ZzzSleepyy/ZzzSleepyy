@@ -7,12 +7,10 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 ### [![Button Facebook]][Facebook]
 
-
-[Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit
-
-
-[Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge
-
+<p align="center">
+  [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit
+  [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge
+</p>
 
 <a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=F78A73&repeat=false&width=435&lines=Knowledge+%2F+Mastery+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
