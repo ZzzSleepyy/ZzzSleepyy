@@ -5,16 +5,17 @@
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
 
-## [![Button Facebook]][Facebook]
+### [![Button Facebook]][Facebook]
 
 
 [Facebook]: [https://en.wikipedia.org/wiki/Computer](https://www.facebook.com/niqouu/)
 
 
-[Button Facebook]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge
+[Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge
 
 
-[Computers]: https://www.facebook.com/niqouu/
+[Computers]: 
+mailto:les@ventureguitars.com?subject=Music%20Lessons&body=I'm%20interested%20in%20learning%20to%20play%20the:%0A%0AThe%20days%20of%20the%20week%20that%20work%20best%20for%20me%20are:%0A%0AThe%20best%20times%20for%20lessons%20are:%20
 
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
