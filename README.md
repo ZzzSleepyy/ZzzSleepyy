@@ -11,7 +11,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 [Facebook]: [https://en.wikipedia.org/wiki/Computer](https://www.facebook.com/niqouu/)
 
 
-[Button Computers]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge
+[Button Facebook]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge
 
 
 [Computers]: https://www.facebook.com/niqouu/
