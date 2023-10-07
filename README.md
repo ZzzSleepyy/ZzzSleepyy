@@ -14,7 +14,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge
 
 
-
+<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=F78A73&repeat=false&width=435&lines=Knowledge+%2F+Mastery+%F0%9F%8F%86" alt="Typing SVG" /></a>
 
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
@@ -35,7 +35,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 
 
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=57F709&repeat=false&width=435&lines=%3E+Learnings+%2F+Knowledge%F0%9F%8F%86" alt="Typing SVG" /></a>
+<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=AA96F7&repeat=false&width=435&lines=Learning+%2F+Studying+%F0%9F%A7%A0" alt="Typing SVG" /></a>
 
 <img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
