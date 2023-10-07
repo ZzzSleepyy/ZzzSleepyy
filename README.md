@@ -8,7 +8,13 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 [Button Example]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge [Link]: https://www.facebook.com/niqouu/
 
 
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=5315F7&repeat=false&width=435&lines=%3E+Languages+%2F+Tools%F0%9F%A7%B0" alt="Typing SVG" /></a>
+[<img height = 220 width = 20% align = left  src = '../Resources/Space.svg' >][#]
+[<img height = 220 width = 20% align = right src = '../Resources/Space.svg' >][#]
+<div align = left>
+
+</div>
+
+[#]: # 
 
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
