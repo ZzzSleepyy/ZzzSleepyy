@@ -54,7 +54,9 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
 <details>
   <summary>
-    <h3><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=F7A362&repeat=false&width=435&lines=How+I+started+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /> 
+    <h3>
+      <a><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&color=F7A362&repeat=false&width=435&lines=How+I+started+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /> 
+      </a>
     </h3>
   </summary>
   
