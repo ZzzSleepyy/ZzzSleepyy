@@ -4,7 +4,22 @@
 
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
-[![https://www.facebook.com/niqouu/]][Computers]
+
+## [![Button Computers]][Computers]
+
+- Analog
+
+- ...
+
+
+<!----------------------------------------------------------------------------->
+
+[Computers]: https://en.wikipedia.org/wiki/Computer
+
+
+<!-------------------------------{ Buttons }----------------------------------->
+
+[Button Computers]: https://img.shields.io/badge/🖳_Computers-37a779?style=for-the-badge
 
 
 [Computers]: https://www.facebook.com/niqouu/
