@@ -5,9 +5,6 @@
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
 
-[Button Example]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge [Link]: https://www.facebook.com/niqouu/
-
-
 [<img height = 220 width = 20% align = left  src = '../Resources/Space.svg' >][#]
 [<img height = 220 width = 20% align = right src = '../Resources/Space.svg' >][#]
 <div align = left>
