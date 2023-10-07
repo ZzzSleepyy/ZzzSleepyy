@@ -50,6 +50,8 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 
   ![](https://leetcard.jacoblin.cool/ZzzSleepyy?theme=wtf)
 
+---
+
 <details>
   <summary>
     <h3>
