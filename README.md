@@ -53,7 +53,7 @@ I'm a senior highschool student eager to learn coding for more than a year and a
 <details>
   <summary>
     <h3>
-      How I started 💻
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&pause=1000&repeat=false&width=435&lines=How+I+started" alt="Typing SVG" /></a>
     </h3>
   </summary>
   I Started coding when I was
