@@ -5,8 +5,7 @@
 `About me;` *I'm a full stack developer, programmer, and future cyber security specialist. 
 I'm a senior highschool student eager to learn coding for more than a year and a self-taught programmer.*
 
-[Button Example]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge 
-[Link]: https://www.facebook.com/niqouu/
+[Button Example]: https://img.shields.io/badge/Facebook-37a779?style=for-the-badge [Link]: https://www.facebook.com/niqouu/
 
 
 <a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=5315F7&repeat=false&width=435&lines=%3E+Languages+%2F+Tools%F0%9F%A7%B0" alt="Typing SVG" /></a>
