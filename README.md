@@ -62,3 +62,6 @@
 *When I was 10 to 11 years old, I began looking for cheats in games that I found fascinating using a hacked cheat engine. After that, I just looked for cheat engines with a little   code of on and off and learned to code there. I stopped using cheat engine since I didn't see the point, so I began writing in Roblox using the lua programming language. I was really happy of the game I made called Gun Tycoon, which had 2k views. I stopped coding when I was 14 and went back to school. Between the ages of 15 and 17, I explored with coding and learnt Python, Java, Html, and CSS.*
 
 #
+![Uploading Screenshot_2024-01-29_18_33_13.png…]()
+
+
