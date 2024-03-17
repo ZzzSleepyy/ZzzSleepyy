@@ -2,10 +2,6 @@
 
 ---
 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=<392970361047613441>)
-
----
-
 `About me;` *Senior highschool student*
 
 
