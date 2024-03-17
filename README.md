@@ -9,45 +9,8 @@
 [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit 
 [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge 
 
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=F78A73&repeat=false&width=435&lines=Knowledge+%2F+Mastery+%F0%9F%8F%86" alt="Typing SVG" /></a>
-
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="f" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
-<br />
-
-
-
-
-
 
 #
-
-
-
-
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&color=F7D678&repeat=false&width=435&lines=Learning+%2F+Studying+%F0%9F%A7%A0" alt="Typing SVG" /></a>
-
-<img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="d" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<br />
-
-
-
-
-
-
-
-
-#
-
-
-
-
 
 
 <a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&repeat=false&width=435&lines=%3E+Statistics+%F0%9F%93%8A" alt="Typing SVG" /></a>
