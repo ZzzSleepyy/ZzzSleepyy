@@ -2,8 +2,7 @@
 
 ---
 
-`About me;` *Senior highschool student*
-
+`About me;` *Senior high school student*
 
 ### [![Button Facebook]][Facebook]
 [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit 
@@ -12,5 +11,3 @@
 <div style="text-align: center;">
     [![Discord Presence](https://lanyard.cnrad.dev/api/392970361047613441)](https://discord.com/users/392970361047613441)
 </div>
-
-
