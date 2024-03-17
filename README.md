@@ -15,10 +15,8 @@
 
 `About me;` *Senior high school student*
 
-### [![Button Facebook]][Facebook]
+### [![Button Facebook]][Facebook] ![](https://komarev.com/ghpvc/?username=ZzzSleepyy&style=for-the-badge)
 [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit 
-[Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge ![](https://komarev.com/ghpvc/?username=ZzzSleepyy&style=for-the-badge)
-
-
+[Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge 
 
 
