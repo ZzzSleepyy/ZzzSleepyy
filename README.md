@@ -12,9 +12,13 @@
 
 #
 
-
-<a ><img src="https://readme-typing-svg.demolab.com?font=Sofia+Sans&size=15&pause=1000&repeat=false&width=435&lines=%3E+Statistics+%F0%9F%93%8A" alt="Typing SVG" /></a>
-
-  ![](https://leetcard.jacoblin.cool/ZzzSleepyy?)
+<div style="text-align: center;">
+    <a href="https://discord.com/users/392970361047613441">
+        <img src="https://lanyard.cnrad.dev/api/392970361047613441" alt="Discord Presence">
+    </a>
+</div>
+<div style="text-align: center;">
+    <img src="https://leetcard.jacoblin.cool/ZzzSleepyy?" alt="LeetCard">
+</div>
 
 
