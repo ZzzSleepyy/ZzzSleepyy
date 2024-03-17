@@ -16,7 +16,7 @@
     [![Discord Presence](https://lanyard.cnrad.dev/api/392970361047613441)](https://discord.com/users/392970361047613441)
 </div>
 
-<div style="text-align: center;">
+<div align="center">
     ![](https://leetcard.jacoblin.cool/ZzzSleepyy?)
 </div>
 
