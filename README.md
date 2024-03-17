@@ -13,12 +13,12 @@
 #
 
 <div style="text-align: center;">
-    <a href="https://discord.com/users/392970361047613441">
-        <img src="https://lanyard.cnrad.dev/api/392970361047613441" alt="Discord Presence">
-    </a>
+    [![Discord Presence](https://lanyard.cnrad.dev/api/392970361047613441)](https://discord.com/users/392970361047613441)
 </div>
+
 <div style="text-align: center;">
-    <img src="https://leetcard.jacoblin.cool/ZzzSleepyy?" alt="LeetCard">
+    ![](https://leetcard.jacoblin.cool/ZzzSleepyy?)
 </div>
+
 
 
