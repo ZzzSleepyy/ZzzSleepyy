@@ -9,16 +9,8 @@
 [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit 
 [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge 
 
-
-#
-
 <div style="text-align: center;">
     [![Discord Presence](https://lanyard.cnrad.dev/api/392970361047613441)](https://discord.com/users/392970361047613441)
 </div>
-
-<div align="center">
-    ![](https://leetcard.jacoblin.cool/ZzzSleepyy?)
-</div>
-
 
 
