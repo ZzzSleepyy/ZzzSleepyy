@@ -15,12 +15,10 @@
 
 `About me;` *Senior high school student*
 
+`Goal;` *Make the world a better place*
+
 ### [![Button Facebook]][Facebook] ![](https://komarev.com/ghpvc/?username=ZzzSleepyy&style=for-the-badge)
 [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit 
 [Button Facebook]: https://img.shields.io/badge/📲Contact-37a779?style=for-the-badge 
-
-<div align="center" size="20">
-  Make the world a better place
-</div>
 
 #
