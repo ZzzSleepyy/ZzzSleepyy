@@ -13,7 +13,7 @@
 
 #
 
-`About me;` *Senior high school student*
+`About me;` *College student*
 
 `Goal;` *Make the world a better place*
 
