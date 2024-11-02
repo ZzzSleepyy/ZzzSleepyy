@@ -15,8 +15,7 @@
 
 `About me;` *College student*
 
-`Goal;` *Make the world a better place* 
-*In case you're wondering what are the titles above, those are my dream title jobs.*
+`Goal;` *In case you're wondering what are the titles above, those are my dream title jobs.*
 
 ### [![Button Facebook]][Facebook] ![](https://komarev.com/ghpvc/?username=ZzzSleepyy&style=for-the-badge)
 [Facebook]: https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit 
