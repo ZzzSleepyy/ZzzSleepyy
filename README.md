@@ -23,6 +23,6 @@
 
 #
 
-`My life;`
+`My life;` *constantly trying to do better*
 
 <img src="https://scontent.fmnl7-2.fna.fbcdn.net/v/t1.15752-9/494573340_724293846596077_8649067063159819317_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeHjXw_TadKJQuGh2mXUoI4AJUGYbFbMcbklQZhsVsxxuYY3aDmoAbZFeDCWBOfvw_glEB4vZKjkBM9SrN5yWQ5o&_nc_ohc=EeO2qd3Tj1IQ7kNvwFX32QO&_nc_oc=AdnQ0bXN14iITr1Dgpk72ws3hS6SAArYk-osqhGlgJazVA0yfg41c3QUx9P7LZVPV30&_nc_zt=23&_nc_ht=scontent.fmnl7-2.fna&oh=03_Q7cD2QGrP3PD9flML2uuSZXhSko5TpQLX1EZTbBYszmQisHZ0g&oe=6848FDA9" width="100" height="120" />
