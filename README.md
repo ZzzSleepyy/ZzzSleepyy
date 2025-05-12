@@ -31,6 +31,4 @@
 <img src="https://scontent.fmnl7-1.fna.fbcdn.net/v/t1.15752-9/494572415_24507378965518783_8543040034525458212_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=9f807c&_nc_eui2=AeFrQ77SMFTwc31w1WCtmHRVjhaBmgHF43eOFoGaAcXjd49A0v3nbtg349S_Nmx6_ZCkJJCFZM_f7MpLntQ_RzLA&_nc_ohc=m7nFMtXIfR4Q7kNvwGhIGHb&_nc_oc=AdkynOGoyb-VdZXgDLISSWdttb9eh_kNptVIkygrWPmX3cLsf9AM5LSeJsos4isRBEw&_nc_zt=23&_nc_ht=scontent.fmnl7-1.fna&oh=03_Q7cD2QFGW-3-oSvY4IjpIMChaxG5GTs3AYrULUk5jAINeGHt3Q&oe=6848FAFB" width="100" height="120" />
 
 
-<img src="https://scontent.fmnl7-1.fna.fbcdn.net/v/t39.30808-6/473427456_2095202510913223_2440389208781871987_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeGPsY4fLRWHRQZMm52m79UTgoUppzU77W2ChSmnNTvtbcgpYQ-8QBNiH1RcWOKNO_nPLKAVXhduunBxP94c4MNN&_nc_ohc=Izg0ZyvQdlQQ7kNvwGgf6gn&_nc_oc=Adl5TxNDPoC6cfN2k9U33qJQ-AykECVZJyZ-10cGIpVeLXUUQ8hWREVI5M4ywdAuklQ&_nc_zt=23&_nc_ht=scontent.fmnl7-1.fna&_nc_gid=BCJAe4AXjTVK9j-AyEdsHw&oh=00_AfLGqzi7eCY1I7f1OQJoRa-8zoXYbY-hHIWYT_zJwLe1vg&oe=68277ACB" width="100" height="120" />
-
 </div>
