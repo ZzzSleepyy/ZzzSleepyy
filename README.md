@@ -82,10 +82,6 @@
   </a>
   
 </div>
-
----
-
-## 📫 **Connect With Me**
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-1E90FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
