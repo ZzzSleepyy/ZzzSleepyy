@@ -1,6 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=&fontSize=0" />
+
   <h2 align="center">
-    <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=800&color=87CEEB&center=true&width=850&height=65&lines=+Hello%2C+I'm+ZzzSleepyy;+Programmer+%7C+Developer+%7C+Student;+Building+the+Future+with+Code" alt="Typing SVG" /></a>
+    <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=800&color=87CEEB&center=true&width=850&height=65&lines=🌊+Hello%2C+I'm+ZzzSleepyy;💻+Programmer+%7C+Developer+%7C+Student;🚀+Building+the+Future+with+Code" alt="Typing SVG" /></a>
   </h2>
 
   <p align="center">
@@ -133,49 +135,37 @@
   
   ### ⚡ **Java & C++ Projects**
   
-  <table>
-    <tr>
-      <td width="50%" align="center" style="padding: 15px;">
-        <h3 style="color: #87CEEB;">🎮 C++ Application</h3>
-        <p style="color: #cccccc;">Object-oriented C++ project</p>
-        <a href="https://github.com/ZzzSleepyy/cpp-project">
-          <img src="https://via.placeholder.com/300x180/0d1117/87CEEB?text=C%2B%2B+Application" width="100%" style="border-radius: 8px; border: 1px solid #1E90FF;" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/OOP-ffffff?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
-      </td>
-      <td width="50%" align="center" style="padding: 15px;">
-        <h3 style="color: #87CEEB;">📱 Java Program</h3>
-        <p style="color: #cccccc;">Java application with GUI</p>
-        <a href="https://github.com/ZzzSleepyy/java-project">
-          <img src="https://via.placeholder.com/300x180/0d1117/87CEEB?text=Java+Application" width="100%" style="border-radius: 8px; border: 1px solid #1E90FF;" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <!-- C++ Project Card -->
+    <td width="50%" align="center">
+      <div style="
+        background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%);
+        padding: 20px;
+        border-radius: 15px;
+        border: 2px solid #00599C;
+        box-shadow: 0 8px 16px rgba(0, 89, 156, 0.2);
+        transition: transform 0.3s ease;
+        margin: 10px;
+        position: relative;
+        overflow: hidden;
+      ">
+        <!-- Decorative Corner -->
+        <div style="
+          position: absolute;
+          top: 0;
+          right: 0;
+          width: 50px;
+          height: 50px;
+          background: linear-gradient(45deg, transparent 50%, #00599C 50%);
+          border-bottom-left-radius: 15px;
+        "></div>
+        
+        
+  </tr>
+</table>
   
   <br>
-  
-  ### 📁 **Repository Highlights**
-  
-  <div align="center">
-    <a href="https://github.com/ZzzSleepyy/python-project-1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=python-project-1&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=cccccc&border_color=1E90FF" />
-    </a>
-    <a href="https://github.com/ZzzSleepyy/cpp-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=cpp-project&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=cccccc&border_color=1E90FF" />
-    </a>
-    <a href="https://github.com/ZzzSleepyy/java-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=java-project&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=cccccc&border_color=1E90FF" />
-    </a>
-    <a href="https://github.com/ZzzSleepyy/python-project-2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=python-project-2&theme=dark&bg_color=0d1117&title_color=87CEEB&text_color=cccccc&border_color=1E90FF" />
-    </a>
-  </div>
   
 </div>
 
