@@ -103,7 +103,7 @@
   
   <br>
   
-  ### 🐍 **Python Projects**
+  ### 🐍 **Kali Projects**
   
 <table>
   <tr>
@@ -147,8 +147,6 @@
 </table>
   
   <br>
-  
-  ### ⚡ **Java & C++ Projects**
   
   ### 🐍 **Python Projects**
 
