@@ -18,7 +18,7 @@
 ## 👤 **About Me**
 > *College student passionate about programming, cybersecurity, and continuous improvement.*
 
-**Goal:** The titles above (Programmer, Developer, Cyber Security Expert) represent my dream career paths.
+**Goal:** The titles above (Programmer, Developer) represent my dream career paths.
 
 ---
 
