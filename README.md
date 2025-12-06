@@ -1,8 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=403f28&height=120&section=header&text=&fontSize=0" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header&text=&fontSize=0" />
 
   <h3 align="center">
-    <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=9BF7DC&center=true&width=800&height=60&lines=Hello%2C+I'm+ZzzSleepyy;Programmer+%7C+Developer+%7C+Student" alt="Typing SVG" /></a>
+<h2 align="center">
+  <a><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2800&pause=800&color=1E90FF&center=true&width=850&height=65&lines=✨+Hello%2C+I'm+ZzzSleepyy;💻+Programmer+%7C+Developer+%7C+Student;🚀+Building+the+Future+with+Code" alt="Typing SVG" /></a>
+</h2>
   </h3>
 
   <p align="center">
@@ -10,7 +12,7 @@
   </p>
 
   <!-- Discord Status -->
-  [![Discord Presence](https://lanyard.cnrad.dev/api/392970361047613441?bg=403f28&borderRadius=12px&idleMessage=Probably%20Sleeping...)](https://discord.com/users/392970361047613441)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/392970361047613441?bg=191970&borderRadius=12px&idleMessage=Probably%20Sleeping...)](https://discord.com/users/392970361047613441)
 
 </div>
 
@@ -97,52 +99,85 @@
 
 ---
 
-## 🚀 **Featured Projects**
+## 🚀 **My Projects**
 <div align="center">
   
-  > *Click to explore my work*
+  > *Click on any project to explore my work*
   
   <br>
   
-  <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    
-    <!-- Project 1 - Python Project -->
-    <a href="https://github.com/ZzzSleepyy/your-project">
-      <div style="background: linear-gradient(135deg, #403f28 0%, #2a2920 100%); padding: 15px; border-radius: 12px; width: 280px; border: 1px solid #37a77930;">
-        <h3>🐍 Python Project</h3>
-        <p><small>Python automation or cybersecurity tool</small></p>
-        <img src="https://via.placeholder.com/250x140/3776AB/ffffff?text=Python+Project" width="250" height="140" style="border-radius: 8px;" />
-        <div style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-        </div>
-      </div>
-    </a>
-    
-    <!-- Project 2 - Java/C++ Project -->
-    <a href="https://github.com/ZzzSleepyy/another-project">
-      <div style="background: linear-gradient(135deg, #1a2a1a 0%, #0d1a0d 100%); padding: 15px; border-radius: 12px; width: 280px; border: 1px solid #37a77930;">
-        <h3>⚡ Java/C++ Project</h3>
-        <p><small>Object-oriented programming project</small></p>
-        <img src="https://via.placeholder.com/250x140/00599C/ffffff?text=C%2B%2B+%2F+Java" width="250" height="140" style="border-radius: 8px;" />
-        <div style="margin-top: 10px;">
-          <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-          <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
-        </div>
-      </div>
-    </a>
-    
-  </div>
+  ### 🐍 **Python Projects**
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🔐 Cybersecurity Tool</h3>
+        <p>A Python-based security automation tool</p>
+        <a href="https://github.com/ZzzSleepyy/python-project-1">
+          <img src="https://via.placeholder.com/300x180/3776AB/ffffff?text=Python+Security+Tool" width="100%" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      </td>
+      <td width="50%" align="center">
+        <h3>🤖 Automation Script</h3>
+        <p>Python automation for daily tasks</p>
+        <a href="https://github.com/ZzzSleepyy/python-project-2">
+          <img src="https://via.placeholder.com/300x180/306998/ffffff?text=Python+Automation" width="100%" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+      </td>
+    </tr>
+  </table>
   
   <br>
   
-  <!-- Repository Cards -->
-  <div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <a href="https://github.com/ZzzSleepyy/python-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=python-project&theme=dark&bg_color=0d1117&title_color=9BF7DC&text_color=ffffff&border_color=37a779" />
+  ### ⚡ **Java & C++ Projects**
+  
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>🎮 C++ Application</h3>
+        <p>Object-oriented C++ project</p>
+        <a href="https://github.com/ZzzSleepyy/cpp-project">
+          <img src="https://via.placeholder.com/300x180/00599C/ffffff?text=C%2B%2B+Application" width="100%" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/OOP-ffffff?style=flat-square&logo=c%2B%2B&logoColor=00599C" />
+      </td>
+      <td width="50%" align="center">
+        <h3>📱 Java Program</h3>
+        <p>Java application with GUI</p>
+        <a href="https://github.com/ZzzSleepyy/java-project">
+          <img src="https://via.placeholder.com/300x180/007396/ffffff?text=Java+Application" width="100%" />
+        </a>
+        <br>
+        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-007396?style=flat-square&logo=java&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  ### 📁 **Repository Highlights**
+  
+  <div align="center">
+    <a href="https://github.com/ZzzSleepyy/python-project-1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=python-project-1&theme=dark&bg_color=0d1117&title_color=9BF7DC&text_color=ffffff&border_color=37a779" />
     </a>
-    <a href="https://github.com/ZzzSleepyy/java-cpp-project">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=java-cpp-project&theme=dark&bg_color=0d1117&title_color=9BF7DC&text_color=ffffff&border_color=37a779" />
+    <a href="https://github.com/ZzzSleepyy/cpp-project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=cpp-project&theme=dark&bg_color=0d1117&title_color=9BF7DC&text_color=ffffff&border_color=37a779" />
+    </a>
+    <a href="https://github.com/ZzzSleepyy/java-project">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=java-project&theme=dark&bg_color=0d1117&title_color=9BF7DC&text_color=ffffff&border_color=37a779" />
+    </a>
+    <a href="https://github.com/ZzzSleepyy/python-project-2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZzzSleepyy&repo=python-project-2&theme=dark&bg_color=0d1117&title_color=9BF7DC&text_color=ffffff&border_color=37a779" />
     </a>
   </div>
   
@@ -151,8 +186,6 @@
 ---
 
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=403f28&height=80&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=9BF7DC&animation=twinkling" />
   
   <p align="center">
     <i>⭐ Star my repositories if you find something interesting!</i>
