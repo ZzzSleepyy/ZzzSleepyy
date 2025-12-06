@@ -106,62 +106,136 @@
   
   ### 🐍 **Python Projects**
   
-  <table>
-    <tr>
-      <td width="50%" align="center" style="padding: 15px;">
-        <h3 style="color: #87CEEB;">🔐 Cybersecurity Tool</h3>
-        <p style="color: #cccccc;">A Python-based security automation tool</p>
-        <a href="https://github.com/ZzzSleepyy/python-project-1">
-          <img src="https://via.placeholder.com/300x180/0d1117/87CEEB?text=Python+Security+Tool" width="100%" style="border-radius: 8px; border: 1px solid #1E90FF;" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-      </td>
-      <td width="50%" align="center" style="padding: 15px;">
-        <h3 style="color: #87CEEB;">🤖 Automation Script</h3>
-        <p style="color: #cccccc;">Python automation for daily tasks</p>
-        <a href="https://github.com/ZzzSleepyy/python-project-2">
-          <img src="https://via.placeholder.com/300x180/0d1117/87CEEB?text=Python+Automation" width="100%" style="border-radius: 8px; border: 1px solid #1E90FF;" />
-        </a>
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <table cellpadding="10" cellspacing="0" border="0" width="100%">
+        <tr><td align="center" bgcolor="#0d1117">
+          <h3>🔐 <font color="#87CEEB">Cybersecurity Tool</font></h3>
+          <font color="#cccccc"><i>A Python-based security automation tool</i></font>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <a href="https://github.com/ZzzSleepyy/python-project-1">
+            <img src="https://via.placeholder.com/280x150/3776AB/ffffff?text=Security+Tool" width="90%" />
+          </a>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/Tool-red" />
+        </td></tr>
+      </table>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <table cellpadding="10" cellspacing="0" border="0" width="100%">
+        <tr><td align="center" bgcolor="#0d1117">
+          <h3>🤖 <font color="#87CEEB">Automation Script</font></h3>
+          <font color="#cccccc"><i>Python automation for daily tasks</i></font>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <a href="https://github.com/ZzzSleepyy/python-project-2">
+            <img src="https://via.placeholder.com/280x150/306998/ffffff?text=Automation" width="90%" />
+          </a>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+          <img src="https://img.shields.io/badge/Automation-blue" />
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
   
   <br>
   
   ### ⚡ **Java & C++ Projects**
   
+  ### 🐍 **Python Projects**
+
 <table>
   <tr>
-    <!-- C++ Project Card -->
-    <td width="50%" align="center">
-      <div style="
-        background: linear-gradient(135deg, #0d1117 0%, #1a1f2e 100%);
-        padding: 20px;
-        border-radius: 15px;
-        border: 2px solid #00599C;
-        box-shadow: 0 8px 16px rgba(0, 89, 156, 0.2);
-        transition: transform 0.3s ease;
-        margin: 10px;
-        position: relative;
-        overflow: hidden;
-      ">
-        <!-- Decorative Corner -->
-        <div style="
-          position: absolute;
-          top: 0;
-          right: 0;
-          width: 50px;
-          height: 50px;
-          background: linear-gradient(45deg, transparent 50%, #00599C 50%);
-          border-bottom-left-radius: 15px;
-        "></div>
-        
-        
+    <td width="50%" align="center" valign="top">
+      <table cellpadding="10" cellspacing="0" border="0" width="100%">
+        <tr><td align="center" bgcolor="#0d1117">
+          <h3>🔐 <font color="#87CEEB">Cybersecurity Tool</font></h3>
+          <font color="#cccccc"><i>A Python-based security automation tool</i></font>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <a href="https://github.com/ZzzSleepyy/python-project-1">
+            <img src="https://via.placeholder.com/280x150/3776AB/ffffff?text=Security+Tool" width="90%" />
+          </a>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+          <img src="https://img.shields.io/badge/Tool-1E90FF" />
+        </td></tr>
+      </table>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <table cellpadding="10" cellspacing="0" border="0" width="100%">
+        <tr><td align="center" bgcolor="#0d1117">
+          <h3>🤖 <font color="#87CEEB">Automation Script</font></h3>
+          <font color="#cccccc"><i>Python automation for daily tasks</i></font>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <a href="https://github.com/ZzzSleepyy/python-project-2">
+            <img src="https://via.placeholder.com/280x150/306998/ffffff?text=Automation" width="90%" />
+          </a>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
+          <img src="https://img.shields.io/badge/Automation-00BFFF" />
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### ⚡ **Java & C++ Projects**
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <table cellpadding="10" cellspacing="0" border="0" width="100%">
+        <tr><td align="center" bgcolor="#0d1117">
+          <h3>🎮 <font color="#87CEEB">C++ Application</font></h3>
+          <font color="#cccccc"><i>Object-oriented C++ project</i></font>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <a href="https://github.com/ZzzSleepyy/cpp-project">
+            <img src="https://via.placeholder.com/280x150/00599C/ffffff?text=C%2B%2B+Application" width="90%" />
+          </a>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/STL-00599C?logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/OOP-87CEEB?logo=c%2B%2B&logoColor=0d1117" />
+        </td></tr>
+      </table>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <table cellpadding="10" cellspacing="0" border="0" width="100%">
+        <tr><td align="center" bgcolor="#0d1117">
+          <h3>📱 <font color="#87CEEB">Java Program</font></h3>
+          <font color="#cccccc"><i>Java application with GUI</i></font>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <a href="https://github.com/ZzzSleepyy/java-project">
+            <img src="https://via.placeholder.com/280x150/007396/ffffff?text=Java+Application" width="90%" />
+          </a>
+        </td></tr>
+        <tr><td align="center" bgcolor="#0d1117">
+          <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/Swing-007396?logo=java&logoColor=white" />
+          <img src="https://img.shields.io/badge/OOP-87CEEB?logo=java&logoColor=0d1117" />
+        </td></tr>
+      </table>
+    </td>
   </tr>
 </table>
   
