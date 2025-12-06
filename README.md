@@ -149,8 +149,6 @@
   
   <br>
   
-  ### ⚡ **Java & C++ Projects**
-  
   ### 🐍 **Python Projects**
 
 <table>
