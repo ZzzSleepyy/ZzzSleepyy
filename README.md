@@ -97,52 +97,6 @@
   
   > <i style="color: #87CEEB;">Click on any project to explore my work</i>
   
-  <br>
-  
-  ### 🐍 **Kali Projects**
-  
-<table>
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <table cellpadding="10" cellspacing="0" border="0" width="100%">
-        <tr><td align="center" bgcolor="#0d1117">
-          <h3>🔐 <font color="#87CEEB">Cybersecurity Tool</font></h3>
-          <font color="#cccccc"><i>A Python-based security automation tool</i></font>
-        </td></tr>
-        <tr><td align="center" bgcolor="#0d1117">
-          <a href="https://github.com/ZzzSleepyy/python-project-1">
-            <img src="https://via.placeholder.com/280x150/3776AB/ffffff?text=Security+Tool" width="90%" />
-          </a>
-        </td></tr>
-        <tr><td align="center" bgcolor="#0d1117">
-          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
-          <img src="https://img.shields.io/badge/Tool-red" />
-        </td></tr>
-      </table>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <table cellpadding="10" cellspacing="0" border="0" width="100%">
-        <tr><td align="center" bgcolor="#0d1117">
-          <h3>🤖 <font color="#87CEEB">Automation Script</font></h3>
-          <font color="#cccccc"><i>Python automation for daily tasks</i></font>
-        </td></tr>
-        <tr><td align="center" bgcolor="#0d1117">
-          <a href="https://github.com/ZzzSleepyy/python-project-2">
-            <img src="https://via.placeholder.com/280x150/306998/ffffff?text=Automation" width="90%" />
-          </a>
-        </td></tr>
-        <tr><td align="center" bgcolor="#0d1117">
-          <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white" />
-          <img src="https://img.shields.io/badge/Automation-blue" />
-        </td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
-  
-  <br>
   
   ### 🐍 **Python Projects**
 
@@ -151,7 +105,7 @@
     <td width="50%" align="center" valign="top">
       <table cellpadding="10" cellspacing="0" border="0" width="100%">
         <tr><td align="center" bgcolor="#0d1117">
-          <h3>🔐 <font color="#87CEEB">Cybersecurity Tool</font></h3>
+          <h3>🔐 <font color="#87CEEB"></font></h3>
           <font color="#cccccc"><i>A Python-based security automation tool</i></font>
         </td></tr>
         <tr><td align="center" bgcolor="#0d1117">
@@ -174,7 +128,8 @@
         </td></tr>
         <tr><td align="center" bgcolor="#0d1117">
           <a href="https://github.com/ZzzSleepyy/python-project-2">
-            <img src="https://via.placeholder.com/280x150/306998/ffffff?text=Automation" width="90%" />
+            <img src="<img width="387" height="229" alt="image" src="https://github.com/user-attachments/assets/173d8071-dfcb-4a49-8896-922ea5701d4b" />
+" width="90%" />
           </a>
         </td></tr>
         <tr><td align="center" bgcolor="#0d1117">
