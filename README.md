@@ -31,12 +31,6 @@
 
 </div>
 
----
-<div align="center">
-> 🎯 Dream titles: Programmer • Developer • Cyber Security  
-
----
-
 [![Contact](https://img.shields.io/badge/📲%20Contact%20Me-9BF7DC?style=for-the-badge&logo=googleforms&logoColor=black)](https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit)
 
 ---
