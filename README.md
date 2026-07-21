@@ -32,7 +32,7 @@
 </div>
 
 ---
-
+<div align="center">
 > 🎯 Dream titles: Programmer • Developer • Cyber Security  
 
 ---
