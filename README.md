@@ -33,22 +33,11 @@
 
 ---
 
-## 👤 About Me
-> 🎓 College student  
 > 🎯 Dream titles: Programmer • Developer • Cyber Security  
 
 ---
 
-## 📬 Contact
 [![Contact](https://img.shields.io/badge/📲%20Contact%20Me-9BF7DC?style=for-the-badge&logo=googleforms&logoColor=black)](https://docs.google.com/forms/d/1OCa30FanvS3vaLqEHHSYlLCMyybwXyslSAfG2IQmQcs/edit)
 
 ---
 
-## 🧠 My Life
-> *constantly trying to do better*
-
-<div align="center">
-  <img src="https://scontent.fmnl7-2.fna.fbcdn.net/v/t1.15752-9/494573340_724293846596077_8649067063159819317_n.jpg" width="120" style="border-radius:12px;" />
-  &nbsp;&nbsp;
-  <img src="https://scontent.fmnl7-1.fna.fbcdn.net/v/t1.15752-9/494572415_24507378965518783_8543040034525458212_n.jpg" width="120" style="border-radius:12px;" />
-</div>
